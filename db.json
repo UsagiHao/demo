@@ -19,6 +19,6 @@
   "blockKline": [
     { "date": "2013/1/24", "open": 2320.26, "close": 2320.26, "lowest": 2287.3, "highest": 2362.94 },
     { "date": "2013/1/25", "open": 2320, "close": 2291.3, "lowest": 2288.26, "highest": 2308.38 },
-    { "date": "2013/1/28", "open": 2295.35, "close": 2346.26, "lowest": 2295.35, "highest": 2346.92 }
+    { "date": "2013/1/28", "open": 2295.35, "close": 2345.26, "lowest": 2295.35, "highest": 2346.92 }
   ],
 }
