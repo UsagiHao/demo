@@ -18,5 +18,5 @@
     { "blockid": 1, "blockname": "板块1", "stockid": 1, "stockname": "股票1" },
     { "blockid": 2, "blockname": "板块2", "stockid": 2, "stockname": "股票2" },
     { "blockid": 3, "blockname": "板块3", "stockid": 3, "stockname": "股票3" }
-  ],
+  ]
 }
