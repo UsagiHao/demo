@@ -22,17 +22,7 @@
     { "blockId": 1, "date": "2013/1/28", "open": 2295.35, "close": 2345.26, "lowest": 2295.35, "highest": 2346.92 }
   ],
   "leadingStock": [
-        {
-            "blockid": "1",
-            "blockname": "板块1",            
-            "stockid": "1",
-            "stockname": "股票1"             
-        },
-        {
-            "blockid": "2",
-            "blockname": "板块2",            
-            "stockid": "2",
-            "stockname": "股票1"    
-        }
+    { "blockid": "1", "blockname": "板块1", "stockid": "1", "stockname": "股票1"},
+    { "blockid": "2", "blockname": "板块2", "stockid": "2", "stockname": "股票1"}
   ]
 }
