@@ -20,6 +20,6 @@
   ],
   "leadingStock": [
     { "blockId": 1, "blockname": "板块1", "stockid": 1, "stockname": "股票1" },
-    { "blockId": 2, "blockname": "板块2", "stockid": 2, "stockname": "股票2" },
-  ],
+    { "blockId": 2, "blockname": "板块2", "stockid": 2, "stockname": "股票2" }
+  ]
 }
