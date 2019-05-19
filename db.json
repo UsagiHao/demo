@@ -19,8 +19,12 @@
     { "blockid": 2, "blockname": "板块2", "stockid": 2,  "stockname": "股票2"}
   ],
   "news": [
-    { "stockid": 1, "title": "铜峰电子连续三日收于年线之上，前次最大涨幅32.60%", "time": "2019-05-14 16:00", "url": "http://search.10jqka.com.cn/goto?id=&dtype=news&duid=cc65757f24b21900&w=600237&rw=600237&tr=5&tid=news&ft=1&st=0&qs=pf&pn=22&blk=1&pos=1&p=1&cid=&qid=&tpl=news&docid=cc65757f24b21900&ts=&tpl=news"},
+    { "stockid": 1, "title": "铜峰电子连续三日收于年线之上，前次最大涨幅32.60%", "time": "2019-05-14 16:00", "url": "http://search.10jqka.com.cn/goto?id=&dtype=pubnote&duid=f5f23a3cba8ffb7&w=600237&rw=600237&tr=5&tid=pubnote&ft=1&st=0&notet=001,003,007,008&qs=pf&pn=22&blk=1&pos=1&p=1&cid=&tpl=pubnote&qid=&ts=&docid=f5f23a3cba8ffb7"},
     { "stockid": 1, "title": "铜峰电子(600237)融资融券信息(05-13)", "time": "2019-05-14 07:36", "url": "http://search.10jqka.com.cn/goto?id=&dtype=news&duid=f942245999505fa0&w=600237&rw=600237&tr=5&tid=news&ft=1&st=0&qs=pf&pn=22&blk=1&pos=2&p=1&cid=&qid=&tpl=news&docid=f942245999505fa0&ts=&tpl=news"},
     { "stockid": 1, "title": "铜峰电子：融资净偿还39.62万元，融资余额3.55亿元（05-13）", "time": "2019-05-14 07:46", "url": "http://search.10jqka.com.cn/goto?id=&dtype=news&duid=bafea53f69e466e0&w=600237&rw=600237&tr=5&tid=news&ft=1&st=0&qs=pf&pn=22&blk=1&pos=3&p=1&cid=&qid=&tpl=news&docid=bafea53f69e466e0&ts=&tpl=news"} 
+  ],
+  "announcements": [
+    { "stockid": 1, "title": "铜峰电子2018年年度股东大会的法律意见书", "time": "2019-04-27", "url": "http://search.10jqka.com.cn/goto?id=&dtype=news&duid=cc65757f24b21900&w=600237&rw=600237&tr=5&tid=news&ft=1&st=0&qs=pf&pn=22&blk=1&pos=1&p=1&cid=&qid=&tpl=news&docid=cc65757f24b21900&ts=&tpl=news"},
+    { "stockid": 1, "title": "铜峰电子2018年年度股东大会决议公告", "time": "2019-04-27", "url": "http://search.10jqka.com.cn/goto?id=&dtype=pubnote&duid=38946696a71d8f2d&w=600237&rw=600237&tr=5&tid=pubnote&ft=1&st=0&notet=001,003,007,008&qs=pf&pn=22&blk=1&pos=2&p=1&cid=&tpl=pubnote&qid=&ts=&docid=38946696a71d8f2d"}
   ]
 }
