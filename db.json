@@ -7,7 +7,12 @@
   "blockKline": [
     { "blockId": 1, "date": "2013/1/24", "open": 2320.26, "close": 2320.26, "lowest": 2287.3, "highest": 2362.94 },
     { "blockId": 1, "date": "2013/1/25", "open": 2320, "close": 2291.3, "lowest": 2288.26, "highest": 2308.38 },
-    { "blockId": 1, "date": "2013/1/28", "open": 2295.35, "close": 2345.26, "lowest": 2295.35, "highest": 2346.92 }
+    { "blockId": 1, "date": "2013/1/28", "open": 2295.35, "close": 2345.26, "lowest": 2295.35, "highest": 2346.92 },
+        { "blockId": 1, "date": "2013/1/30", "open": 2295.35, "close": 2340.26, "lowest": 2295.35, "highest": 2346.92 },
+        { "blockId": 1, "date": "2013/2/2", "open": 2285.35, "close": 2299.26, "lowest": 2295.35, "highest": 2346.92 },
+        { "blockId": 1, "date": "2013/2/3", "open": 2288.35, "close": 2300.26, "lowest": 2295.35, "highest": 2346.92 },
+        { "blockId": 1, "date": "2013/2/5", "open": 2304.35, "close": 2330.26, "lowest": 2295.35, "highest": 2346.92 },
+        { "blockId": 1, "date": "2013/2/7", "open": 2310.35, "close": 2345.26, "lowest": 2295.35, "highest": 2346.92 }
   ],
   "posts": [
     { "id": 1, "name": "板块1", "priceLimit": 3.27,  "totalVolume": 104.38, "grossTurnOver": 88.35, "netInflow": 2.00, "increase": 16, "decrease": 5},
